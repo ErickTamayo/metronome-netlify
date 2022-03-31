@@ -3503,10 +3503,10 @@ methods@~1.1.2:
   resolved "https://registry.yarnpkg.com/methods/-/methods-1.1.2.tgz#5529a4d67654134edcc5266656835b0f851afcee"
   integrity sha1-VSmk1nZUE07cxSZmVoNbD4Ua/O4=
 
-metronome-sh@^1.3.1:
-  version "1.3.1"
-  resolved "https://registry.yarnpkg.com/metronome-sh/-/metronome-sh-1.3.1.tgz#6f0ced22fc3d6f04f2b5be53396e93e0da92e30f"
-  integrity sha512-9e08sAX6aIX0iXHPmzndJAw7ueZqLnd9c4xheaLgIgtgxCb6cWUdEo6EMYJQyTNBZOjB0Q6F+kJVKkx7uvDlBQ==
+metronome-sh@^1.3.2:
+  version "1.3.2"
+  resolved "https://registry.yarnpkg.com/metronome-sh/-/metronome-sh-1.3.2.tgz#fb323560e61dadfc2483aa4572817d33afe1b24f"
+  integrity sha512-otrlPjA9zor5G4Y1KNNdvBvRggMWEjvJqeOjG3JBj3E4E4KFB9Rha8/+PXDfuV6VaigSwEQugjYy65eb96Cucw==
   dependencies:
     "@babel/core" "^7.16.5"
     "@babel/template" "^7.16.0"
