@@ -1,5 +1,5 @@
 [build]
-  command = "remix build"
+  command = "yarn build"
   publish = "public"
 
 [dev]
@@ -15,3 +15,6 @@
   for = "/build/*"
   [headers.values]
     "Cache-Control" = "public, max-age=31536000, s-maxage=31536000"
+
+[functions]
+  external_node_modules = ["metronome-sh"]
